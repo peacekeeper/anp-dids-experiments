@@ -8,7 +8,7 @@ An experiment to use [Agent-Network Protocol (ANP)](https://agent-network-protoc
 - `did:web:did-web.godiddy.com:3c39e070-bea8-4ece-81d8-2e620252bba9` ([link](https://uniresolver.io/#did:web:did-web.godiddy.com:3c39e070-bea8-4ece-81d8-2e620252bba9))
 - `did:webvh:QmcuepV2CnJCgqBYFWPL13WYW3NWeSComSWV1w3HrWqtbi:did-web.godiddy.com:8d9a032b-0967-4f02-a26e-cddbad1ed9f2` ([link](https://uniresolver.io/#did:webvh:QmcuepV2CnJCgqBYFWPL13WYW3NWeSComSWV1w3HrWqtbi:did-web.godiddy.com:8d9a032b-0967-4f02-a26e-cddbad1ed9f2))
 
-Other DID methods supported by [Universal Registrar](https://uniregistrar.io/) (by [Godiddy](https://godiddy.com/)):
+Other DID methods supported by [Universal Registrar](https://uniregistrar.io/) (by [Godiddy](https://godiddy.com/)), based on the [DID Registration](https://identity.foundation/did-registration/) protocol.
 
 - With service endpoints: `did:ebsi`, `did:indy`, `did:near`, `did:ion`
 - Without service endpoints: `did:key`, `did:jwk`, `did:pkh`
